@@ -1,5 +1,8 @@
 ## Notes on MYPY library
-Mypy is a static type checker for Python. If you sprinkle your code with type annotations, mypy can type check your code and find common bugs. 
+
+Unlike Java and C++. Python is a dynamically typed language meaning you do not need to specify the typo of objects in run time. 
+
+Mypy is a static type checker for Python. Thus, if you sprinkle your code with type annotations, mypy can type check your code and find common bugs. 
 
 - run mypy with particular program: 
 ```
