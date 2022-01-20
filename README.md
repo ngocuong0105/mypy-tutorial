@@ -31,4 +31,6 @@ mypy --config-file mypy.ini tutorial.py
 ### Questions
 - why do I have error when importing pandas?
 
-- significant existing codebase without many type annotations?
+- do you have existing codebase without many type annotations
+
+- cts integration with mypy, how?
